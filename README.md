@@ -35,7 +35,10 @@ Git was used throughout the development process to track changes and manage vers
 
 🚀 Features
 Smooth Scrolling: The website offers a sleek user experience with smooth scrolling between different sections for seamless navigation.
+
 Contact Form Integration: The contact page allows visitors to reach out via a simple form. Submissions are directly sent to my email using Web3Forms API.
+![image](https://github.com/user-attachments/assets/53425450-bb28-4ed9-942d-1a061757fd1e)
+
 Responsive Design: Fully responsive, ensuring optimal viewing across devices, from mobile phones to desktop screens.
 React-based Components: The entire site is modular and dynamic, leveraging React components for maintainability and scalability.
 
