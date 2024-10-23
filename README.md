@@ -1,7 +1,16 @@
 # jashu-portfolio2
 🎨 Personal Portfolio
 This is the repository for my personal portfolio website, designed to showcase my skills, projects, and experiences as a developer. This project highlights my expertise in web development and serves as a platform to demonstrate my work.
+
 ![image](https://github.com/user-attachments/assets/05aaf7c1-9032-45a2-8ef4-6afa29296d4f)
+
+![image](https://github.com/user-attachments/assets/6ee0c13b-d67b-4964-bf53-05b2e72bfaf0)
+
+Mobile Optimization:
+
+![image](https://github.com/user-attachments/assets/a63e1233-bac9-4f2e-9988-28ded00370e1)
+
+
 
 
 🛠 Built With
