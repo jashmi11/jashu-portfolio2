@@ -36,7 +36,7 @@ Back-End Integration: Currently, the site is static. In the future, I aim to int
 To run this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/jashmi11/jashu-portfolio2.git
 Navigate to the project folder:
 cd your-portfolio
 Open index.html in your browser:
